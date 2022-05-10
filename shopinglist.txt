@@ -7,3 +7,5 @@ peaches
 oranges
 grapes
 muskmelons
+biscuits
+cereals
