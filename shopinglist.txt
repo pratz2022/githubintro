@@ -11,4 +11,4 @@ biscuits
 cereals
 carrots
 brinjals
-walnuts
+english walnuts
